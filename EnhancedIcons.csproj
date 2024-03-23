@@ -1,0 +1,170 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Assets\**" />
+    <Compile Remove="images\**" />
+    <Compile Remove="Resources\**" />
+    <EmbeddedResource Remove="Assets\**" />
+    <EmbeddedResource Remove="images\**" />
+    <EmbeddedResource Remove="Resources\**" />
+    <None Remove="Assets\**" />
+    <None Remove="images\**" />
+    <None Remove="Resources\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="image\Airhorn.png" />
+    <None Remove="image\Apparatus.png" />
+    <None Remove="image\Beehive.png" />
+    <None Remove="image\Bell.png" />
+    <None Remove="image\Big bolt.png" />
+    <None Remove="image\Binoculars.png" />
+    <None Remove="image\Bottles.png" />
+    <None Remove="image\Brush.png" />
+    <None Remove="image\Candy.png" />
+    <None Remove="image\Cash register.png" />
+    <None Remove="image\Chemical jug.png" />
+    <None Remove="image\Clipboard.png" />
+    <None Remove="image\Clown horn.png" />
+    <None Remove="image\Comedy.png" />
+    <None Remove="image\Cookie mold pan.png" />
+    <None Remove="image\Dust pan.png" />
+    <None Remove="image\Egg beater.png" />
+    <None Remove="image\Fancy lamp.png" />
+    <None Remove="image\Flask.png" />
+    <None Remove="image\Flask2.png" />
+    <None Remove="image\GiftBox.png" />
+    <None Remove="image\Gold bar.png" />
+    <None Remove="image\Goldbar.png" />
+    <None Remove="image\Golden cup.png" />
+    <None Remove="image\Hairdryer.png" />
+    <None Remove="image\Homemade flashbang.png" />
+    <None Remove="image\Jar of pickles.png" />
+    <None Remove="image\Key.png" />
+    <None Remove="image\Large axle.png" />
+    <None Remove="image\Laser pointer.png" />
+    <None Remove="image\Magic 7 ball.png" />
+    <None Remove="image\Magnifying glass.png" />
+    <None Remove="image\Metal sheet.png" />
+    <None Remove="image\Mug.png" />
+    <None Remove="image\Old phone.png" />
+    <None Remove="image\Painting.png" />
+    <None Remove="image\Perfume bottle.png" />
+    <None Remove="image\Pill bottle.png" />
+    <None Remove="image\Plastic fish.png" />
+    <None Remove="image\Player body.png" />
+    <None Remove="image\Red soda.png" />
+    <None Remove="image\Remote.png" />
+    <None Remove="image\Ring.png" />
+    <None Remove="image\Rubber Ducky.png" />
+    <None Remove="image\Shotgun Shell.png" />
+    <None Remove="image\Shotgun.png" />
+    <None Remove="image\Spraycan.png" />
+    <None Remove="image\Steering wheel.png" />
+    <None Remove="image\Sticky note.png" />
+    <None Remove="image\Stop Sign.png" />
+    <None Remove="image\Tattered Metal Sheet.png" />
+    <None Remove="image\Tea kettle.png" />
+    <None Remove="image\Teeth.png" />
+    <None Remove="image\Toothpaste.png" />
+    <None Remove="image\Toy cube.png" />
+    <None Remove="image\Toy robot.png" />
+    <None Remove="image\Tragedy.png" />
+    <None Remove="image\V-type engine.png" />
+    <None Remove="image\Whoopie cushion.png" />
+    <None Remove="image\Yield sign.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="image\Airhorn.png" />
+    <EmbeddedResource Include="image\Apparatus.png" />
+    <EmbeddedResource Include="image\Beehive.png" />
+    <EmbeddedResource Include="image\Bell.png" />
+    <EmbeddedResource Include="image\Big bolt.png" />
+    <EmbeddedResource Include="image\Binoculars.png" />
+    <EmbeddedResource Include="image\Bottles.png" />
+    <EmbeddedResource Include="image\Brush.png" />
+    <EmbeddedResource Include="image\Candy.png" />
+    <EmbeddedResource Include="image\Cash register.png" />
+    <EmbeddedResource Include="image\Chemical jug.png" />
+    <EmbeddedResource Include="image\Clipboard.png" />
+    <EmbeddedResource Include="image\Clown horn.png" />
+    <EmbeddedResource Include="image\Comedy.png" />
+    <EmbeddedResource Include="image\Cookie mold pan.png" />
+    <EmbeddedResource Include="image\Dust pan.png" />
+    <EmbeddedResource Include="image\Egg beater.png" />
+    <EmbeddedResource Include="image\Fancy lamp.png" />
+    <EmbeddedResource Include="image\Flask.png" />
+    <EmbeddedResource Include="image\GiftBox.png" />
+    <EmbeddedResource Include="image\Gold bar.png" />
+    <EmbeddedResource Include="image\Golden cup.png" />
+    <EmbeddedResource Include="image\Hairdryer.png" />
+    <EmbeddedResource Include="image\Homemade flashbang.png" />
+    <EmbeddedResource Include="image\Jar of pickles.png" />
+    <EmbeddedResource Include="image\Key.png" />
+    <EmbeddedResource Include="image\Large axle.png" />
+    <EmbeddedResource Include="image\Laser pointer.png" />
+    <EmbeddedResource Include="image\Magic 7 ball.png" />
+    <EmbeddedResource Include="image\Magnifying glass.png" />
+    <EmbeddedResource Include="image\Metal sheet.png" />
+    <EmbeddedResource Include="image\Mug.png" />
+    <EmbeddedResource Include="image\Old phone.png" />
+    <EmbeddedResource Include="image\Painting.png" />
+    <EmbeddedResource Include="image\Perfume bottle.png" />
+    <EmbeddedResource Include="image\Pill bottle.png" />
+    <EmbeddedResource Include="image\Plastic fish.png" />
+    <EmbeddedResource Include="image\Player body.png" />
+    <EmbeddedResource Include="image\Red soda.png" />
+    <EmbeddedResource Include="image\Remote.png" />
+    <EmbeddedResource Include="image\Ring.png" />
+    <EmbeddedResource Include="image\Rubber Ducky.png" />
+    <EmbeddedResource Include="image\Shotgun Shell.png" />
+    <EmbeddedResource Include="image\Shotgun.png" />
+    <EmbeddedResource Include="image\Spraycan.png" />
+    <EmbeddedResource Include="image\Steering wheel.png" />
+    <EmbeddedResource Include="image\Sticky note.png" />
+    <EmbeddedResource Include="image\Stop sign.png" />
+    <EmbeddedResource Include="image\Tea kettle.png" />
+    <EmbeddedResource Include="image\Teeth.png" />
+    <EmbeddedResource Include="image\Toothpaste.png" />
+    <EmbeddedResource Include="image\Toy cube.png" />
+    <EmbeddedResource Include="image\Toy robot.png" />
+    <EmbeddedResource Include="image\Tragedy.png" />
+    <EmbeddedResource Include="image\V-type engine.png" />
+    <EmbeddedResource Include="image\Whoopie cushion.png" />
+    <EmbeddedResource Include="image\Yield sign.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\core\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\Desktop\Lethal Company Steam\Lethal Company_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>..\..\..\..\Desktop\Lethal Company Steam\BepInEx\core\BepInEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Netcode.Runtime">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Unity.Netcode.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\Desktop\Lethal Company Steam\Lethal Company_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\..\Desktop\Lethal Company Steam\Lethal Company_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
