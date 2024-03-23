@@ -11,7 +11,7 @@ This is mod replaces the regular item icons with more enhanced and descriptive o
 
 1. Make sure you have [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) installed for Lethal Company. If you haven't installed it yet, follow the instructions on the [BepInEx website.](https://docs.bepinex.dev/articles/user_guide/installation/index.html)
 
-2. Download the latest release of the Enhanced Icons mod from the [Thunderstore,](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons) NexusMods or [releases page.](https://github.com/NilaierMusic/EnhancedIcons/releases)
+2. Download the latest release of the Enhanced Icons mod from the [Thunderstore,](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons) [NexusMods](https://www.nexusmods.com/lethalcompany/mods/202) or [releases page.](https://github.com/NilaierMusic/EnhancedIcons/releases)
 
 3. Extract the contents of the downloaded ZIP file into the `BepInEx/plugins` directory in your Lethal Company game folder.
 
