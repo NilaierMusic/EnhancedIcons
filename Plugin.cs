@@ -1,5 +1,4 @@
 ﻿using BepInEx;
-using EnhancedIcons;
 using HarmonyLib;
 
 namespace EnhancedIcons

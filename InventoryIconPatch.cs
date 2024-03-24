@@ -32,6 +32,11 @@ namespace EnhancedIcons
                 iconCache[imagePath] = customIcon;
                 __instance.itemSlotIcons[localPlayerController.currentItemSlot].sprite = customIcon;
             }
+            else
+            {
+                // Fallback to the original icon
+                __instance.itemSlotIcons[localPlayerController.currentItemSlot].sprite = __instance.itemSlotIcons[localPlayerController.currentItemSlot].sprite;
+            }
         }
     }
 }

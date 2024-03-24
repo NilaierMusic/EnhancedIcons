@@ -19,11 +19,13 @@
 
   <ItemGroup>
     <None Remove="image\Airhorn.png" />
+    <None Remove="image\Ammo.png" />
     <None Remove="image\Apparatus.png" />
     <None Remove="image\Beehive.png" />
     <None Remove="image\Bell.png" />
     <None Remove="image\Big bolt.png" />
     <None Remove="image\Binoculars.png" />
+    <None Remove="image\Body.png" />
     <None Remove="image\Bottles.png" />
     <None Remove="image\Brush.png" />
     <None Remove="image\Candy.png" />
@@ -43,6 +45,7 @@
     <None Remove="image\Goldbar.png" />
     <None Remove="image\Golden cup.png" />
     <None Remove="image\Hairdryer.png" />
+    <None Remove="image\Hive.png" />
     <None Remove="image\Homemade flashbang.png" />
     <None Remove="image\Jar of pickles.png" />
     <None Remove="image\Key.png" />
@@ -82,17 +85,17 @@
 
   <ItemGroup>
     <EmbeddedResource Include="image\Airhorn.png" />
+    <EmbeddedResource Include="image\Ammo.png" />
     <EmbeddedResource Include="image\Apparatus.png" />
-    <EmbeddedResource Include="image\Beehive.png" />
     <EmbeddedResource Include="image\Bell.png" />
     <EmbeddedResource Include="image\Big bolt.png" />
     <EmbeddedResource Include="image\Binoculars.png" />
+    <EmbeddedResource Include="image\Body.png" />
     <EmbeddedResource Include="image\Bottles.png" />
     <EmbeddedResource Include="image\Brush.png" />
     <EmbeddedResource Include="image\Candy.png" />
     <EmbeddedResource Include="image\Cash register.png" />
     <EmbeddedResource Include="image\Chemical jug.png" />
-    <EmbeddedResource Include="image\Clipboard.png" />
     <EmbeddedResource Include="image\Clown horn.png" />
     <EmbeddedResource Include="image\Comedy.png" />
     <EmbeddedResource Include="image\Cookie mold pan.png" />
@@ -100,13 +103,12 @@
     <EmbeddedResource Include="image\Egg beater.png" />
     <EmbeddedResource Include="image\Fancy lamp.png" />
     <EmbeddedResource Include="image\Flask.png" />
-    <EmbeddedResource Include="image\GiftBox.png" />
     <EmbeddedResource Include="image\Gold bar.png" />
     <EmbeddedResource Include="image\Golden cup.png" />
     <EmbeddedResource Include="image\Hairdryer.png" />
+    <EmbeddedResource Include="image\Hive.png" />
     <EmbeddedResource Include="image\Homemade flashbang.png" />
     <EmbeddedResource Include="image\Jar of pickles.png" />
-    <EmbeddedResource Include="image\Key.png" />
     <EmbeddedResource Include="image\Large axle.png" />
     <EmbeddedResource Include="image\Laser pointer.png" />
     <EmbeddedResource Include="image\Magic 7 ball.png" />
@@ -118,14 +120,10 @@
     <EmbeddedResource Include="image\Perfume bottle.png" />
     <EmbeddedResource Include="image\Pill bottle.png" />
     <EmbeddedResource Include="image\Plastic fish.png" />
-    <EmbeddedResource Include="image\Player body.png" />
     <EmbeddedResource Include="image\Red soda.png" />
     <EmbeddedResource Include="image\Remote.png" />
     <EmbeddedResource Include="image\Ring.png" />
     <EmbeddedResource Include="image\Rubber Ducky.png" />
-    <EmbeddedResource Include="image\Shotgun Shell.png" />
-    <EmbeddedResource Include="image\Shotgun.png" />
-    <EmbeddedResource Include="image\Spraycan.png" />
     <EmbeddedResource Include="image\Steering wheel.png" />
     <EmbeddedResource Include="image\Sticky note.png" />
     <EmbeddedResource Include="image\Stop sign.png" />

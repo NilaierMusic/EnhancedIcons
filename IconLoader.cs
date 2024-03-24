@@ -20,7 +20,6 @@ namespace EnhancedIcons
                 {
                     if (stream == null)
                     {
-                        Debug.LogError($"Custom icon not found: {imagePath}");
                         return null;
                     }
 
