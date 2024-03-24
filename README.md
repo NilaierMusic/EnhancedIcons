@@ -40,8 +40,4 @@ If you would like to contribute to the development of this mod, feel free to sub
 
 ## License
 
-<<<<<<< HEAD
 This mod is released under the [GNU General Public License version 3.](https://opensource.org/license/gpl-3-0) See the `LICENSE` file for more details.
-=======
-This mod is released under the [GNU General Public License version 3.](https://opensource.org/license/gpl-3-0) See the `LICENSE` file for more details.
->>>>>>> 17e41cc17cb4e90d7a9b2b21d4f18b2524059bbb
