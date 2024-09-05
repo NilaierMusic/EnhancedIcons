@@ -1,6 +1,6 @@
 # Enhanced Icons
 
-This is mod replaces the regular item icons with more enhanced and descriptive ones.
+This mod replaces the regular item icons with more enhanced and descriptive ones.
 ![](https://i.imgur.com/Yy1Fc7M.png)
 ## Features
 
