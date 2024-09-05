@@ -11,7 +11,7 @@ This is mod replaces the regular item icons with more enhanced and descriptive o
 
 1. Make sure you have [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) installed for Lethal Company. If you haven't installed it yet, follow the instructions on the [BepInEx website.](https://docs.bepinex.dev/articles/user_guide/installation/index.html)
 
-2. Download the latest release of the Enhanced Icons mod from the [Thunderstore,](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons) NexusMods or [releases page.](https://github.com/NilaierMusic/EnhancedIcons/releases)
+2. Download the latest release of the Enhanced Icons mod from the [Thunderstore,](https://thunderstore.io/c/lethal-company/p/Nilaier/EnhancedIcons) [NexusMods](https://www.nexusmods.com/lethalcompany/mods/202) or [releases page.](https://github.com/NilaierMusic/EnhancedIcons/releases)
 
 3. Extract the contents of the downloaded ZIP file into the `BepInEx/plugins` directory in your Lethal Company game folder.
 
@@ -23,7 +23,7 @@ The mod automatically replaces the item icons in the player's inventory with the
 
 ## Compatibility
 
-This mod is compatible with Lethal Company version 49. It may work with other versions, but compatibility is not guaranteed.
+This mod is compatible with Lethal Company versions 49 - 62. It may work with other versions, but compatibility is not guaranteed.
 
 Other modded scrap and items are incompatible.
 
@@ -36,7 +36,7 @@ If you would like to contribute to the development of this mod, feel free to sub
 ## Credits
 
 - [Nilaier](https://github.com/NilaierMusic) - Mod Developer
-- [YW Nightmare,](https://lethal-company.fandom.com/wiki/User:YW_Nightmare) [Kchurp,](https://lethal-company.fandom.com/wiki/User:Kchurp) [AntioMax,](https://lethal-company.fandom.com/wiki/User:AntioMax) [Wolf6537,](https://lethal-company.fandom.com/wiki/User:Wolf6537) [Dyanamos,](https://lethal-company.fandom.com/wiki/User:Dyanamos) [Just Deado,](https://lethal-company.fandom.com/wiki/User:Just_Deado) [Lelledguy,](https://lethal-company.fandom.com/wiki/User:Lelledguy) [Fin55Fin55,](https://lethal-company.fandom.com/wiki/User:Fin55Fin55) [MantisWhale,](https://lethal-company.fandom.com/wiki/User:MantisWhale) [BirjSnappleTea](https://lethal-company.fandom.com/wiki/User:BirjSnappleTea), [Krazedkoala](https://lethal-company.fandom.com/wiki/User:Krazedkoala), [Bananagooser](https://lethal-company.fandom.com/wiki/User:Bananagooser) - Icon Renders
+- [YW Nightmare,](https://lethal-company.fandom.com/wiki/User:YW_Nightmare) [Kchurp,](https://lethal-company.fandom.com/wiki/User:Kchurp) [AntioMax,](https://lethal-company.fandom.com/wiki/User:AntioMax) [Wolf6537,](https://lethal-company.fandom.com/wiki/User:Wolf6537) [Dyanamos,](https://lethal-company.fandom.com/wiki/User:Dyanamos) [Just Deado,](https://lethal-company.fandom.com/wiki/User:Just_Deado) [Lelledguy,](https://lethal-company.fandom.com/wiki/User:Lelledguy) [Fin55Fin55,](https://lethal-company.fandom.com/wiki/User:Fin55Fin55) [MantisWhale,](https://lethal-company.fandom.com/wiki/User:MantisWhale) [BirjSnappleTea](https://lethal-company.fandom.com/wiki/User:BirjSnappleTea), [Krazedkoala](https://lethal-company.fandom.com/wiki/User:Krazedkoala), [Bananagooser](https://lethal-company.fandom.com/wiki/User:Bananagooser), [Heagonwastaken](https://lethal-company.fandom.com/wiki/User:Heagonwastaken), [AceMilk](https://lethal-company.fandom.com/wiki/User:AceMilk), [TwistedTerrain](https://lethal-company.fandom.com/wiki/User:TwistedTerrain) - Icon Renders
 
 ## License
 
