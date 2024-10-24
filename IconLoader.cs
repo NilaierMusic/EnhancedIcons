@@ -41,5 +41,17 @@ namespace EnhancedIcons
                 return null;
             }
         }
+
+        public static Sprite LoadBeltBagIcon(string itemName)
+        {
+            var imagePath = $"{itemName}.png";
+            return LoadCustomIcon(imagePath);
+        }
+
+        public static Sprite LoadIconForItem(string itemName)
+        {
+            var imagePath = $"{itemName}.png";
+            return LoadCustomIcon(imagePath);
+        }
     }
 }
